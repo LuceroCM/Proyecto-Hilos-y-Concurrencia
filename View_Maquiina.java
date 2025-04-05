@@ -1,7 +1,10 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
-
+//Programa de un traga monedas
+//Integrantes: 
+//Baizabal acosta Ismael
+//Cruz Mendoza Lucero
 package com.mycompany.maquina;
 
 import javax.swing.*;
